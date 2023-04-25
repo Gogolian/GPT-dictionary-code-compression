@@ -1,1 +1,1 @@
-Create d{key:value} in one line, replace repeated words/phrases with keys, replace as many words as possible, remove newlines and tabs, remove quotes from items. keep rest inact. keep character count as low possible. Results in one code block.
+Create d{key:value} in one line, replace repeated words/phrases with keys, replace as many words as possible, remove newlines and tabs, remove quotes from items. keep rest inact. keep character count as low possible. Make sure this compression is lossless and can be recreated 1:1. Results in one code block.
