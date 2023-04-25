@@ -1,0 +1,1 @@
+Create d{key:value}, replace repeated words/phrases with keys, remove quotes from items. keep rest inact. keep character count as low possible.

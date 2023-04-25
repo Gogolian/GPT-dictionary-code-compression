@@ -1,0 +1,1 @@
+d{key:value} replace words, replace keys with values. keep rest inact. format. codeblock.
