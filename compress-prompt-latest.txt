@@ -1,1 +1,1 @@
-Create d{key:value}, replace repeated words/phrases with keys, replace as many words as possible, remove newlines and tabs, remove quotes from items. keep rest inact. keep character count as low possible.
+Create d{key:value} in one line, replace repeated words/phrases with keys, replace as many words as possible, remove newlines and tabs, remove quotes from items. keep rest inact. keep character count as low possible. Results in one code block.
