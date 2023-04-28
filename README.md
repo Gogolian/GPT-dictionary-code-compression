@@ -1,4 +1,33 @@
 # Dictionary-Based Compression for NewLang (Work in Progress)
+#
+# TL;DR
+## COMPRESSES CODE SO GPT STILL UNDERSTANDS!!!
+#
+
+HOW TO USE
+```
+python compress_file.py <your file>
+```
+
+example:
+```
+python compress_file.py examples/babyagi.py
+```
+
+You can paste the compressed code to ChatGPT or other transformer.
+
+to decompress:
+
+```
+python decompress_file.py <your file>
+```
+
+example:
+```
+python decompress_file.py examples/babyagi-compressed_cr.py
+```
+
+#
 
 Welcome to the dictionary-based compression and decompression algorithm for NewLang, an open-source project designed to minimize code size while maintaining readability. This algorithm is still a work in progress, and we encourage developers to contribute and help improve its performance and efficiency.
 
